@@ -14,9 +14,9 @@ This repository contains a structured audit of VLC Media Player and a suite of f
 
 ## How to Run
 1. Clone the repository:
-   `git clone https://github.com/Nandaniiii-web/Open-Source-VLC.git`
+   `https://github.com/Nandaniiii-web/oss-audit-24BCE10775`
 2. Navigate to the folder:
-   `cd oss_project_24BCE10775`
+   `cd oss-audit-24BCE10775`
 4. Give execution permissions:
    `chmod +x *.sh`
 5. Run a script (e.g., Script 1):
